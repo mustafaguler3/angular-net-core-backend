@@ -1,0 +1,243 @@
+[
+  {
+    "Name": "Apple",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 200,
+    "PictureUrl": "images/products/fruits/apple.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Banana",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 150,
+    "PictureUrl": "images/products/fruits/banana.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Grape",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "PictureUrl": "images/products/fruits/grape.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Lemon",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 300,
+    "PictureUrl": "images/products/fruits/lemon.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Mango",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 250,
+    "PictureUrl": "images/products/fruits/mango.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Orange",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 120,
+    "PictureUrl": "images/products/fruits/orange.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Strawberry",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 10,
+    "PictureUrl": "images/products/fruits/strawberry.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Hat - 1",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 8,
+    "PictureUrl": "images/products/hats/hat1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hat - 2",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 15,
+    "PictureUrl": "images/products/hats/hat2.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hat - 3",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 18,
+    "PictureUrl": "images/products/hats/hat3.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Shirt - 1",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15,
+    "PictureUrl": "images/products/shirts/shirt1.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Shirt - 2",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 46,
+    "PictureUrl": "images/products/shirts/shirt2.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Shirt - 3",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 17,
+    "PictureUrl": "images/products/shirts/shirt3.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Shirt - 4",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 10,
+    "PictureUrl": "images/products/shirts/shirt4.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Shirt - 5",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15,
+    "PictureUrl": "images/products/shirts/shirt5.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Shirt - 6",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15,
+    "PictureUrl": "images/products/shirts/shirt6.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Shoes - 1",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15,
+    "PictureUrl": "images/products/shoes/shoes1.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Shoes - 2",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 24,
+    "PictureUrl": "images/products/shoes/shoes2.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Shoes - 3",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 5,
+    "PictureUrl": "images/products/shoes/shoes3.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Shoes - 4",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15,
+    "PictureUrl": "images/products/shoes/shoes4.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Shoes - 5",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15,
+    "PictureUrl": "images/products/shoes/shoes5.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Cabbage",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15,
+    "PictureUrl": "images/products/vegatables/cabbage.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Carrot",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 10,
+    "PictureUrl": "images/products/vegatables/carrot.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Corn",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 12,
+    "PictureUrl": "images/products/vegatables/corn.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Cucumber",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 11,
+    "PictureUrl": "images/products/vegatables/cucumber.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Eggplant",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15,
+    "PictureUrl": "images/products/vegatables/eggplant.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Green Paper",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 18,
+    "PictureUrl": "images/products/vegatables/green-paper.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Onion",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 20,
+    "PictureUrl": "images/products/vegatables/onion.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Potato",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 25,
+    "PictureUrl": "images/products/vegatables/potato.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Tomato",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 29,
+    "PictureUrl": "images/products/vegatables/tomato.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  }
+
+]

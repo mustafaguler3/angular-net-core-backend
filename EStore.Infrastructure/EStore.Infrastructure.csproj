@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Repositories\" />
+    <None Remove="Services\" />
+    <None Remove="AppIdentity\" />
+    <None Remove="Data\" />
+    <None Remove="Data\SeedData\" />
+    <None Remove="config\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+    <Folder Include="Services\" />
+    <Folder Include="AppIdentity\" />
+    <Folder Include="Data\" />
+    <Folder Include="Data\SeedData\" />
+    <Folder Include="config\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.14" />
+    <PackageReference Include="StackExchange.Redis" Version="2.7.4" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="7.0.14" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="7.0.14" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.14">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="Stripe.net" Version="43.4.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EStore.Core\EStore.Core.csproj" />
+  </ItemGroup>
+</Project>
